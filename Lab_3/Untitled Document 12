@@ -1,0 +1,40 @@
+msf_image = ImageMSF
+end_and_branch_point_image = ImageEndBranch
+msf_rows = MSFRows
+msf_cols = MSFCols
+end_rows = InRows
+end_cols = InCols
+file_name = Groundfpt
+
+
+csv_file = ROCfpt
+
+
+c1 = i
+c2 = j
+rows = Rows1
+cols = Cols1
+row1 = Rows2
+cols1 - Cols2
+threshold = thresh
+index = k
+found = found
+end_points = EndPoint
+branch_points = BranchPoint
+
+
+
+current_character[2] = letter[2]
+desired_character[2] = find[2]
+temp = temp
+
+
+original_image_with_threshold = ImageThresh
+thinned_image = ImageThin
+end_and_branch_points_image = ImageEndBranch
+
+
+
+void roc(unsigned char *msf_image, unsigned char *end_and_branch_point_image, int msf_cols, int msf_rows, int end_cols, int end_rows)
+
+ImageMSF, ImageEndBranch, MSFCols, MSFRows, InCOls, InRows
