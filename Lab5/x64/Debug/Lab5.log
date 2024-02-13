@@ -1,0 +1,13 @@
+﻿  Lab5.c
+C:\Users\kenga\source\repos\Lab5\Lab5.c(81,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(85,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(117,37): warning C4013: 'Dist' undefined; assuming extern returning int
+C:\Users\kenga\source\repos\Lab5\Lab5.c(117,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(122,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(150,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(154,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(226,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(272,55): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(383,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenga\source\repos\Lab5\Lab5.c(391,27): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  Lab5.vcxproj -> C:\Users\kenga\source\repos\Lab5\x64\Debug\Lab5.exe

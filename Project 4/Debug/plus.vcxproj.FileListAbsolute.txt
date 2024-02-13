@@ -1,0 +1,4 @@
+C:\Teaching\MachineVision\code\plus-2019\Debug\plus.exe
+C:\Teaching\MachineVision\code\plus-2019\Debug\plus.pdb
+C:\Users\kenga\source\repos\plus-2019\Debug\plus.exe
+C:\Users\kenga\source\repos\Project 4\Debug\plus.exe
